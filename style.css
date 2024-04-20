@@ -1,0 +1,94 @@
+.shape1 {
+    width: 250px;
+    color: red;
+    text-align: center;
+    font-weight: 600;
+    font-size: large;
+    padding: 25px;
+    border: solid 3px red;
+    margin-bottom: 50px;
+}
+
+.shape1 div {
+    border: 3px solid red;
+    background-color: gainsboro;
+}
+
+.shape2 {
+    height: 60px;
+    width: 300px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(106, 13, 125);
+    color: aliceblue;
+    text-align: center;
+    border-bottom: 20px solid rgb(92, 8, 128);
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.shape3 {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.shapes1 {
+    margin: auto 20px;
+    border: solid black 5px;
+    background-color: gainsboro;
+}
+
+.shapes1 div {
+    border: red solid 4px;
+    padding: 5px 22px;
+}
+
+.shapes2 {
+    margin: auto 20px;
+    border: solid black 5px;
+    background-color: gainsboro;
+}
+
+.shapes2 div {
+    border-top: blue 5px;
+    border-bottom: blue 5px;
+    border-left: green 5px;
+    border-right: green 5px;
+    border-style: solid;
+    padding: 5px 22px;
+}
+
+.shapes3 {
+    margin: auto 20px;
+    border: solid black 5px;
+    background-color: gainsboro;
+}
+
+.shapes3 div {
+    border-top: red 5px;
+    border-bottom: blue 5px;
+    border-left: yellow 5px;
+    border-right: green 5px;
+    border-style: dashed;
+    padding: 5px 22px;
+}
+
+.shape4 {
+    width: 300px;
+    padding: 10px;
+    background-color: rgb(244, 244, 244);
+}
+
+.shape4 div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    font-weight: 500;
+    padding-left: 10px;
+    border-left: teal 4px solid;
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
